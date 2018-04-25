@@ -1,19 +1,6 @@
 #Demo Git Repository
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-asldkalsdsakasl;dsl;dl;asdsal;dlsadl;sadls;ad
-asdsalasdkdldaldsal
-
-asdsla
-ad'l
-sad,'asd'das
-';ads
-
-
-
-
-sdfhjghjgjghjg
-rtyrtyrtyrrt
-bnmnb
+1. index.html
